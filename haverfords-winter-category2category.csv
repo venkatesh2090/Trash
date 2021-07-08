@@ -1,0 +1,30 @@
+CAT_NAME,CAT_ID,PARENT_ID
+Backpacks,cx2006,cx2029
+Blush & Bronzer,cx2014,cx2030
+Brow,cx2010,cx2030
+Concealer,cx2015,cx2030
+Crossbody Bags,cx2005,cx2029
+Eyeliner,cx2011,cx2030
+Eyeshadow,cx2012,cx2030
+Foundation,cx2016,cx2030
+Highlight & Contour,cx2017,cx2030
+Jackets,cx2032,cx2025
+Jewelry,cx2008,cx2026
+Leathers & Suedes,cx2027,cx2025
+Lip Gloss,cx2020,cx2030
+Lip Liner,cx2021,cx2030
+Lipstick,cx2022,cx2030
+Mascara,cx2013,cx2030
+Powder,cx2018,cx2030
+Prime & Set,cx2019,cx2030
+Shoes,cx2009,cx2026
+Shoulder Bags,cx2007,cx2029
+Suits,cx2028,cx2025
+Sweaters,cx2004,cx2025
+Apparel,cx2025,cx2026
+Bags,cx2029,cx2026
+Beauty,cx2030,cx2026
+Pants,cx2031,cx2025
+Jeans & Denims,cx2037,cx2025
+Dresses,cx2038,cx2025
+Skirts,cx2039,cx2025
